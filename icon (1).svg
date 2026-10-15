@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0b1d3a"/>
+  <circle cx="256" cy="200" r="92" fill="#ffd21f"/>
+  <path d="M0 320c60-30 120-30 180 0s120 30 180 0 110-30 152-10V512H0z" fill="#00b4c6"/>
+  <path d="M0 380c60-26 120-26 180 0s120 26 180 0 110-26 152-8V512H0z" fill="#0a7fa8"/>
+  <text x="256" y="470" font-family="Arial Black,Arial,sans-serif" font-size="62" font-weight="900" fill="#fff" text-anchor="middle">CTG</text>
+</svg>
